@@ -1,6 +1,4 @@
-# CPSC331 Assignment 3
-
-## Kadin Sayani, UCID: 30061139
+# HashTable
 
 ### Overview
 
@@ -9,8 +7,6 @@ Files included in submission:
 - Driver.java
 - HashTable.java
 - Student.java
-- Assign3Proof-30061139.md
-- Assign3Proof-30061139.pdf
 
 ### Compilation and Running
 
